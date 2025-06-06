@@ -8,14 +8,33 @@ Repositorio de Prueba
 ##### Titulo h5
 ###### Titulo h6
 
+
+## Marcaciones en texto
 **Negrita**
 *Cursiva*
 ~~Tachado~~ 
 ***Negrita y Cursiva***
 
+## Listas
 - Primer paso 
 - Segundo Paso
 - Tercer Paso 
   - Otro Paso
-
+ 
+## Enlaces
 [Texto Opcional del link](https://www.google.com/)
+
+
+## Tablas
+
+| Nombre | Edad | Ciudad |
+|--------|------|--------|
+| Geovani| 30   | Guatemala |
+
+## CheckBox
+
+- [x] Si
+- [ ] no
+
+
+
